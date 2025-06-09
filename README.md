@@ -24,9 +24,16 @@ I'm a **Software Engineer at Trianz**, with a strong passion for crafting scalab
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/neeraj-kr-gupta)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:kumarguptaneeraj.100@gmail.com)
+<a href="https://linkedin.com/in/neeraj-kr-gupta" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="https://medium.com/@yourhandle" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="30" height="30"/>
+</a>
+<a href="mailto:kumarguptaneeraj.100@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
+</a>
+
 
 ---
 
