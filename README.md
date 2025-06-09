@@ -5,7 +5,6 @@ I'm a **Software Engineer at Trianz**, with a strong passion for crafting scalab
 ## 🚀 Achievements
 
 - 🏅 Graduated with a **9.05 GPA** from **NIT Manipur**.
-- 💼 Successfully transitioned from an intern to a full-time role at Trianz.
 - 🛰️ Built **GeoInsight**, a suite of geospatial tools for drone data analysis during my internship.
 - 🙌 Used my first salary to feed 100+ people with the help of **Surya Helping Hand NGO**.
 - 🏸 Regional-level **Badminton player** and passionate about sportsmanship.
