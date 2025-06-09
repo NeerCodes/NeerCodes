@@ -25,15 +25,14 @@ I'm a **Software Engineer at Trianz**, with a strong passion for crafting scalab
 ## 🤝 Connect with Me
 
 <a href="https://linkedin.com/in/neeraj-kr-gupta" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
 </a>
 <a href="https://medium.com/@yourhandle" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Medium" width="30" height="30"/>
 </a>
 <a href="mailto:kumarguptaneeraj.100@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
 </a>
-
 
 ---
 
